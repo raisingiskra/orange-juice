@@ -1,1 +1,1 @@
-Heyo!
+Heyo! This is my orange juice themed website - part of my larger website (that is not yet created) that'll have a few of these specfic website themes. Like orange juice, wood engraving and glass blowing. Have fun exploring this! Current status: Not done.
